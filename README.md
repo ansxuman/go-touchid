@@ -1,6 +1,7 @@
 # go-touchid
-
 A simple Go Library for Touch ID authentication on darwin.
+
+![Github Banner](GO_Touch_ID.png)
 
 ## Features
 
