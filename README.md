@@ -55,6 +55,7 @@ func main() {
 		fmt.Println("Serial authentication failed.")
 	}
 }
+}
 ```
 
 ## API
