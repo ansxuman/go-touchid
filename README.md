@@ -37,7 +37,7 @@ func main() {
 	if err != nil {
 		fmt.Printf("Authentication error: %v\n", err)
 		return
-	
+	}
 	if success {
 		fmt.Println("Authentication successful!")
 	} else {
@@ -55,7 +55,6 @@ func main() {
 	} else {
 		fmt.Println("Serial authentication failed.")
 	}
-}
 }
 ```
 
