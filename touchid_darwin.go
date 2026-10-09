@@ -1,7 +1,7 @@
 package touchid
 
 /*
-#cgo CFLAGS: -x objective-c -fmodules -fblocks
+#cgo CFLAGS: -x objective-c -fblocks
 #cgo LDFLAGS: -framework CoreFoundation -framework LocalAuthentication -framework Foundation
 #include <stdlib.h>
 #include <stdio.h>
